@@ -234,7 +234,8 @@ export default function Decoder() {
                 })
                   .then((res) => {
                     setFetch(false);
-                    setResponse(res.data.body);
+                    console.log(res.data)
+                    setResponse([res.data.body.corr.map((obj)=>{return obj.ans;}), res.data.body.incorr.map((obj)=>{return obj.ans;})]);
                   })
                   .catch((err) => {
                     let axiosErr = new ExpressError(
