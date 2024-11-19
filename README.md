@@ -18,7 +18,7 @@ Creation of An analysis tool which will provide **potential** solutions to the C
 <h1 display='block' align='center' align='center'> JULIUS ENCRYPTUS </h1>
 
 <p align = 'center'> 
-A project to create an API which returns all possible combinations to a caesar cipher and sort them into recommended ones and non recommended ones to smoothline the vetting process. <b>We have also created a website to display the API's prowess</b>
+A project to create an API which returns all possible combinations to a caesar cipher and sort them into recommended ones and non recommended ones to smoothline the vetting process. <b>Use our Browser Extension by downloading the julius encryptus zip file and loading the build folder within it into the browser</b>
 </p>
 
 </div>
