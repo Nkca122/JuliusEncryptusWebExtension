@@ -2,8 +2,9 @@
 
 # JuliusEncryptus
 
+
 <div align="center">
-    <img src="./frontend/public/logo.png" width='100px' height= '100px' /> 
+    <img src="https://drive.google.com/uc?id=1HLYFL5YVXpv1odnzNLIfNsYZ0qp3aOta" width='100px' height= '100px' /> 
 </div>
 
 ## PS-1: Decrypting the Caesar Cipher
